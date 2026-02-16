@@ -7,7 +7,11 @@ I enjoy writing clean, efficient code and learning new technologies every day.
 
 📬 Reach me at: work.adityah@gmail.com
 
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 <!---
 Aditya-9589/Aditya-9589 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
