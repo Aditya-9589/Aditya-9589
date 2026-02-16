@@ -9,7 +9,7 @@ I enjoy writing clean, efficient code and learning new technologies every day.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,html,css,js,react,nodejs,express,mongodb,mysql,git,github,redux,tailwind, postman,ts,nextjs, nestjs,netlify,notion,npm,vercel," />
+    <img src="https://skillicons.dev/icons?i=java,html,css,js,react,nodejs,express,mongodb,mysql,git,github,redux,tailwind, postman,ts,nextjs, nestjs,netlify,notion,npm,vercel" />
   </a>
 </p>
 <!---
