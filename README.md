@@ -11,7 +11,7 @@ I enjoy writing clean, efficient code and learning new technologies every day.
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,html,css,js,react,nodejs,express,mongodb,mysql,git,github,redux,tailwind,postman,ts,nextjs,nestjs,netlify,notion,npm,vercel" />
   </a>
-  ![CI](https://github.com/YOUR_USERNAME/YOUR_REPO/actions/workflows/ci.yml/badge.svg)
+  <!-- ![CI](https://github.com/YOUR_USERNAME/YOUR_REPO/actions/workflows/ci.yml/badge.svg) -->
 </p>
 <!---
 Aditya-9589/Aditya-9589 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
